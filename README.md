@@ -91,6 +91,7 @@ Visualization tools help make the insights easier to understand.
 
 ## Project Structure
 Netflix-Data-Analysis
+
 │
 ├── netflix_data_analysis.ipynb
 ├── netflix_titles.csv
