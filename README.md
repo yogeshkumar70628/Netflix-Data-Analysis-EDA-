@@ -114,7 +114,7 @@ Some insights obtained from the analysis include:
 ## How to Run the Project
 
 1. Clone the repository
-git clone https://github.com/yourusername/netflix-data-analysis.git
+git clone git clone https://github.com/yogeshkumar70628/Netflix-Data-Analysis-EDA.git
 
 2. Navigate to the project directory
 cd netflix-data-analysis
